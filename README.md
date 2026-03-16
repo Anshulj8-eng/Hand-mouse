@@ -72,6 +72,3 @@ python mymain.py
 * **Move Mouse**: Hold your hand up and move your index finger.
 * **Quit**: Press **'q'** on your keyboard to stop the application.
 
----
-
-Would you like me to add a **troubleshooting section** to this README regarding camera permissions or lighting conditions?
